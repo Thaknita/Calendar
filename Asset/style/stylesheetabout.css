@@ -1,0 +1,97 @@
+*{
+    font-family: 'Moulpali', sans-serif;
+}
+.navig ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: purple;
+  }
+.nav-o li {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 0.5rem;
+  }
+  .nav-o .right{
+    float: right;
+  }
+  #register{
+    display: flex;
+    padding-right: 150px;
+    margin-left: 100px;
+    margin-right: 50px;
+  }
+  .imgistad{
+   width: 220px;
+   margin-right: 60px;
+  }
+  .register p{
+    font-size: 0.6rem;
+    text-align: left;
+    padding-right: 50px;
+    font-weight: bold;
+  }
+  .register h2{
+    font-size: 0.9rem;
+    text-align: left;
+  }
+  .register button{
+    background-color: blue;
+    border-radius: 5px;
+    color:white;
+    font-size: 0.5rem;
+    width: 60px;
+  }
+#partnership{
+    color: white;
+    background-color: purple;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#partnership h2{
+    text-align: center;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}  
+#partnership .logo{
+display: flex;
+justify-content: space-evenly;
+}
+
+#partnership img{
+    width: 80px;
+}
+.text-purple{
+    color: purple;
+ }
+ .h2{
+    text-align: center;
+ }
+.item{
+    width: 150px;
+    display:inline-block;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding: 25px;
+}
+#service h2{
+    font-size: 1rem;
+}
+#service p{
+    font-size: 0.7rem;
+    font-weight: bold;
+}
+i{
+  font-size:50px;
+}
+#service{
+    text-align: center;
+}
+

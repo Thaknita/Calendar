@@ -1,0 +1,159 @@
+*{
+    font-family: 'Kantumruy Pro', sans-serif;
+}
+body{
+    background-color: white;
+}
+.gpc{
+    display: flex;
+    height: 100px;
+    justify-content:space-between;
+}
+header{
+    background-color: black;
+}
+.img-head{
+    margin: 5px;
+}
+.navig ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: purple;
+  }
+.nav-o li {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  .nav-o .right{
+    float: right;
+  }
+  #service{
+    margin-top: 10px;    text-align: center;
+    background-color: whitesmoke;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 320px;
+    padding-right: 320px;
+
+  }
+ .text-gray{
+    color: gray;
+ }
+ .text-purple{
+    color: purple;
+ }
+ .item{
+    width: 150px;
+    display:inline-block;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.item h2{
+    font-size:large;
+}
+i{
+  font-size:80px;
+}
+.h2-ser{
+    font-size: xx-large;
+}
+#iframe{
+    text-align: center;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+  }
+  .ifritem{
+    width: 400px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 20px;
+  }
+  #technology{
+    text-align: center;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 400px;
+    padding-right: 400px;
+  }
+ .titem{
+    width: 150px;
+    border-radius: 5px;
+    margin: 10px;
+ }
+ footer{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-right: 90px;
+    margin: 20px;
+ }
+.foot{
+  display: flex;
+}
+ .img-foot{
+   width: 80px;
+ }
+.learnmore li{
+  display:flex;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.contact li{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.ifrfoot li{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+.istadinfo{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+margin-top: 20px;
+}
+hr{
+  width: 80%;
+  text-align: center;
+}
+.tele{
+  font-size: 16px;
+  margin: 2px;
+}
+.telepurple{
+  color: purple;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+
+
+  
